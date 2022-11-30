@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner_TimePicker_DatePicker</string>
+    <string name="timepicker">TimePicker</string>
+    <string name="datepicker">DatePicker</string>
+    <string name="spinner">Spinner</string>
+    <string-array name="Spinner">
+        <item>Việt Nam</item>
+        <item>Ấn Độ</item>
+        <item>Hoa Kỳ</item>
+        <item>Indonesia</item>
+        <item>Trung Quốc</item>
+    </string-array>
+</resources>
